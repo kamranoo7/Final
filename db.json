@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "comapny": "",
+      "city": "",
+      "location": "",
+      "Role": "",
+      "level": "",
+      "Language": "",
+      "Contract": "",
+      "date": "",
+      "id": 1
+    },
+    {
+      "comapny": "",
+      "city": "",
+      "location": "",
+      "Role": "",
+      "level": "",
+      "Language": "",
+      "Contract": "",
+      "date": "",
+      "id": 2
+    },
+    {
+      "comapny": "",
+      "city": "",
+      "location": "",
+      "Role": "",
+      "level": "",
+      "Language": "",
+      "Contract": "",
+      "date": "",
+      "id": 3
+    },
+    {
+      "comapny": "",
+      "city": "",
+      "location": "",
+      "Role": "",
+      "level": "",
+      "Language": "",
+      "Contract": "",
+      "date": "",
+      "id": 4
+    }
+  ]
+}
